@@ -186,6 +186,37 @@ h3 {
   .header {
     width: 100%;
   }
+  .product {
+    width: 47%;
+  }
+  .info .info-box-two {
+  width: 35%;
+  }
+  .headline {
+    75%
+    text-algin: left;
+  }
 @media only screen and (min-width: 480px) {
-
+  .main-section: {
+    height: 10rem;
+  }
+  .main-section .headline h4 {
+  font-size: 0.77rem;
+  font-weight: bold;
 }
+  .main-section .headline h1 {
+    font-size: 1rem;
+  }
+  .headline {
+    height: 5rem:
+    text-align: left;
+    width: 60%
+
+  }
+  .info .info-box-one .info .info-box-two {
+    width: 90%;
+  }
+  }
+  @media only screen and (max-width: 470px) {
+
+  }
